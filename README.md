@@ -71,7 +71,7 @@ Data Visualisation:
 
 ## License
 
-This Jupyter Notebook is licensed under the [MIT License].
+This Jupyter Notebook is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
