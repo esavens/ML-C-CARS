@@ -27,7 +27,7 @@ Two questions that are feasible to answer with the current dataset:
 1. Is it possible to identify car brands based on the image?
 2. Is it possible to identify the year a car was made based on the image?
 
-Here is a dataset image example: <br>
+Here is a dataset image example: <br><br>
 ![Car Image Example](https://user-images.githubusercontent.com/46652050/71590299-ebd23f00-2af5-11ea-916f-f19ff6fad04a.jpg)
 
 I am personally a car geek, so doing this project was a lot of fun for me!
